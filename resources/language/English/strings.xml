@@ -5,7 +5,9 @@
     <string id="32100">Enable debug mode</string>
     <string id="32101">Look for a specific language</string>
     <string id="32102">Subtitle language</string>
-
+    <string id="32103">Prefer a specific language</string>
+    <string id="32104">Prefered subtitle language</string>
+    
     <!-- Exclusions -->
     <string id="32020">Exclusions</string>
     <string id="32200">Exclude for videos with less than X minutes</string>
